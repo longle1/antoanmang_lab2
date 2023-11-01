@@ -1,0 +1,13 @@
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\bin\Debug\Question 3.exe.config
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\bin\Debug\Question 3.exe
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\bin\Debug\Question 3.pdb
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\obj\Debug\Question 3.csproj.AssemblyReference.cache
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\obj\Debug\Question 3.csproj.SuggestedBindingRedirects.cache
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\obj\Debug\Question_3.Properties.Resources.resources
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\obj\Debug\Question_3.Client.resources
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\obj\Debug\Question_3.Q3___Dashboardcs.resources
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\obj\Debug\Question_3.Server.resources
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\obj\Debug\Question 3.csproj.GenerateResource.cache
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\obj\Debug\Question 3.csproj.CoreCompileInputs.cache
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\obj\Debug\Question 3.exe
+E:\21520186_21522302_21521959\Lab3_21520186\Question 3\obj\Debug\Question 3.pdb

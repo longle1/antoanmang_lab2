@@ -1,0 +1,33 @@
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.AssemblyReference.cache
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.SuggestedBindingRedirects.cache
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question_2.Properties.Resources.resources
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question_2.Server.resources
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.GenerateResource.cache
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.CoreCompileInputs.cache
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\bin\Debug\Question 2.exe.config
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\bin\Debug\Question 2.exe
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\bin\Debug\Question 2.pdb
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.exe
+D:\NT106\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.pdb
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\bin\Debug\Question 2.exe.config
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\bin\Debug\Question 2.exe
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\bin\Debug\Question 2.pdb
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.AssemblyReference.cache
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.SuggestedBindingRedirects.cache
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question_2.Properties.Resources.resources
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question_2.Server.resources
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.GenerateResource.cache
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.CoreCompileInputs.cache
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.exe
+E:\lab3 thuc hanh mang\Update lại bài 4\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.pdb
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\bin\Debug\Question 2.exe.config
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\bin\Debug\Question 2.exe
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\bin\Debug\Question 2.pdb
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.AssemblyReference.cache
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.SuggestedBindingRedirects.cache
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question_2.Properties.Resources.resources
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question_2.Server.resources
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.GenerateResource.cache
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.csproj.CoreCompileInputs.cache
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.exe
+D:\github mới nhất\21520186_21522302_21521959\Lab3_21520186\Question 2\obj\Debug\Question 2.pdb
